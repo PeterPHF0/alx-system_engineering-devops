@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -hR vincent staff
+mkdir -hR vincent staff .
