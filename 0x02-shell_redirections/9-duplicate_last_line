@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iachta | tail -n 1
+cat iachta | tail -n 1 > iachta
